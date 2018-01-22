@@ -109,7 +109,7 @@ nav#utilityMenu {
     float: right;
     margin: -1.5em 0 0 0;
     padding: 0.35em;
-    background-color: rgba(64,54,47,0.8);
+    background-color: blue;
     height: 1.3em;
 }
 nav#utilityMenu li {
