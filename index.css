@@ -64,9 +64,8 @@ header {
 }
 header h1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: rgb(32, 29, 192);
-    font-size: 7.5em;
-    letter-spacing: -0.025em;
+    color: black;
+    font-size: 8.0em;
     margin: 0;
 }
 
@@ -98,13 +97,13 @@ nav li {
 nav li a, nav li a:visited {
     text-decoration: none;
     text-align: right;
-    color:rgb(32, 29, 192);
+    color: black;
     padding: 0.3em 0.6em;
 }
 
 nav li a:hover {
     color:#C64322;
-    background-color: rgba(252,251,243,0.75);
+    background-color: white;
 }
 nav#utilityMenu {
     float: right;
@@ -143,6 +142,7 @@ nav#utilityMenu ul li input#search {
 /* Sidebar Section */
 section#sidebar {
     width: 260px;
+    font-size: 1.15em;
     float: right;
     position: relative;
     display: block;
